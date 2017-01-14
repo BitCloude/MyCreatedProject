@@ -12,6 +12,7 @@ namespace MyCreatedProject
         {
             Console.WriteLine("dsfgd");
             Console.WriteLine("Change to master");
+            Console.WriteLine("change 1");
         }
        
     }
