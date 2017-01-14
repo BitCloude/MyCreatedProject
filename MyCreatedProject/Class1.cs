@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyCreatedProject
 {
-    class Class2
+    class Class1
     {
-        public void toString()
-        {
-            Console.WriteLine("dsfgd");
-        }
-       
     }
 }
